@@ -1,0 +1,74 @@
+{
+  "competition": "arc-prize-2026-arc-agi-3",
+  "checked_utc": "2026-11-03T00:54:49.455786+00:00",
+  "solutions": [
+    {
+      "score": "33.77",
+      "submission_id": 57583748,
+      "status": "COMPLETE",
+      "submission_date_utc": "2026-10-24T05:31:57.497Z",
+      "script_version_id": 361659896,
+      "notebook_version": 1,
+      "kaggle_url": "https://www.kaggle.com/code/qiuqiuh/arc-model-planning-candidate?scriptVersionId=361659896",
+      "file": "score_33_77.ipynb",
+      "sha256": "c414be2319ebf6a752635965a38b94ad55bbf4fb644ba1aa926004e4abd38604",
+      "bytes": 710751,
+      "scheduler": "Dprime",
+      "code_cells_syntax_checked": 13,
+      "remote_all_cell_sources_identical": true,
+      "remote_serialized_sha256": "64ada9099795c7bb0b09f60c89f70497812c21350b4b91068b5c107f553629d1",
+      "remote_byte_identity": false,
+      "remote_comparison_note": "Kaggle API reserializes notebook JSON/metadata; all code and markdown cell sources match exactly.",
+      "recipe_changes": [
+        "code_file matches the released filename",
+        "is_private=false for a public copy"
+      ],
+      "related_same_version_runs": [
+        {
+          "submission_id": 57625476,
+          "public_score": "26.24",
+          "status": "COMPLETE"
+        },
+        {
+          "submission_id": 57583748,
+          "public_score": "33.77",
+          "status": "COMPLETE"
+        }
+      ]
+    },
+    {
+      "score": "32.12",
+      "submission_id": 57753606,
+      "status": "COMPLETE",
+      "submission_date_utc": "2026-10-29T00:41:34.463Z",
+      "script_version_id": 363187774,
+      "notebook_version": 1,
+      "kaggle_url": "https://www.kaggle.com/code/qiuqiuh/arc-silver-final-candidate?scriptVersionId=363187774",
+      "file": "score_32_12.ipynb",
+      "sha256": "6b6de85a4bc180af11bcd5373a68e593cdfe61bcecf4fd6710ad001301797326",
+      "bytes": 696177,
+      "scheduler": "Franzen original",
+      "code_cells_syntax_checked": 13,
+      "remote_all_cell_sources_identical": true,
+      "remote_serialized_sha256": "c70212da1b4ed0b559f69211c5d33bc15ae3207f34feaa324ed73da42332dae9",
+      "remote_byte_identity": false,
+      "remote_comparison_note": "Kaggle API reserializes notebook JSON/metadata; all code and markdown cell sources match exactly.",
+      "recipe_changes": [
+        "code_file matches the released filename",
+        "is_private=false for a public copy"
+      ],
+      "related_same_version_runs": [
+        {
+          "submission_id": 57894189,
+          "public_score": "22.68",
+          "status": "COMPLETE"
+        },
+        {
+          "submission_id": 57753606,
+          "public_score": "32.12",
+          "status": "COMPLETE"
+        }
+      ]
+    }
+  ]
+}
